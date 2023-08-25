@@ -40,6 +40,7 @@
   .header .navBar {
     position: absolute;
     background: var(--whiteColor);
+    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     width: 80%;
@@ -63,7 +64,7 @@
     padding: 0.5rem 0;
   }
   .header .navBar .navLists .navItem .navLink {
-    color: var(--textcolor);
+    color: var(--blackcolor);
     font-size: 0.9rem;
     font-weight: 600;
   }
@@ -127,4 +128,5 @@
     color: var(--whiteColor);
     font-weight: 500;
   }
-}/*# sourceMappingURL=navbar.css.map */
+}
+/*# sourceMappingURL=navbar.css.map */
