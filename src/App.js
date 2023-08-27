@@ -1,6 +1,6 @@
-import HomePages from "./Pages/HomePages/HomePages";
-import NavbarTongpung from "./Components/Navbar/NavbarTongpung";
-import Footer from "./Components/Footer/Footer";
+import HomePages from "./Pages/HomePages/HomePages.jsx";
+import NavbarTongpung from "./Components/Navbar/NavbarTongpung.jsx";
+import Footer from "./Components/Footer/Footer.jsx";
 
 function App() {
   return (
